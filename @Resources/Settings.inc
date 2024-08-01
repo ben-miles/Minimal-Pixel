@@ -43,7 +43,7 @@ StringAlign=Right
 
 [styleBar]
 BarColor=#colorFG#
-BarOrientation=HORIZONTAL
+BarOrientation=Horizontal
 SolidColor=#colorBG#
 X=45
 Y=1r
