@@ -10,12 +10,17 @@ colorNone=0,0,0,0
 fontName=pixelmix
 fontSize=6
 
-disk1=C:                    ; Drive letter for your primary storage disk
-disk2=D:                    ; Drive letter for your secondary storage disk
+; Drive letter for your primary storage disk
+disk1=C:
+; Drive letter for your secondary storage disk
+disk2=D:
 
-networkInterface=Best       ; Network Interface Controller, recommended to use "Best"
-maxDownload=365000000       ; Max download speed in bits/sec (365Mb * 1000000 = 365000000b)
-maxUpload=12000000          ; Max upload speed in bits/sec (12Mb * 1000000 = 12000000b)
+; Network Interface Controller, recommended to use "Best"
+networkInterface=Best
+; Max download speed in bits/sec (365Mb * 1000000 = 365000000b)
+maxDownload=365000000
+; Max upload speed in bits/sec (12Mb * 1000000 = 12000000b)
+maxUpload=12000000
 
 ;============================================================================
 ; STYLES
