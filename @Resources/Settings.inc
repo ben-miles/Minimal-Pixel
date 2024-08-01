@@ -49,3 +49,12 @@ X=45
 Y=1r
 W=162
 H=7
+
+[styleVisualizer]
+BarColor=#colorFG#
+BarOrientation=Vertical
+SolidColor=#colorBG#
+X=1R
+Y=5
+W=4
+H=75
