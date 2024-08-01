@@ -7,10 +7,11 @@ colorBase=0,0,0,125
 colorBG=100,100,100,50
 colorFG=255,255,255,255
 colorNone=0,0,0,0
-disk1=C:
-disk2=D:
 fontName=pixelmix
 fontSize=6
+
+disk1=C:                    ; Drive letter for your primary storage disk
+disk2=D:                    ; Drive letter for your secondary storage disk
 
 ;============================================================================
 ; STYLES
