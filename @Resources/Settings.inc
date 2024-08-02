@@ -55,6 +55,6 @@ BarColor=#colorFG#
 BarOrientation=Vertical
 SolidColor=#colorBG#
 X=1R
-Y=5
+Y=0r
 W=4
 H=75
