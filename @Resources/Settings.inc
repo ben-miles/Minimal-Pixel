@@ -11,9 +11,9 @@ fontName=pixelmix
 fontSize=6
 
 ; Drive letter for your primary storage disk
-disk1=C:
+disk1=C
 ; Drive letter for your secondary storage disk
-disk2=D:
+disk2=D
 
 ; Network Interface Controller, recommended to use "Best"
 networkInterface=Best
