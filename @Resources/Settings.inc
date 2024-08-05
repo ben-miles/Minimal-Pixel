@@ -3,24 +3,26 @@
 ;============================================================================
 
 [variables]
-colorBase=0,0,0,125
-colorBG=100,100,100,50
-colorFG=255,255,255,255
-colorNone=0,0,0,0
-fontName=pixelmix
-fontSize=6
+ColorBase=0,0,0,125
+ColorBG=100,100,100,50
+ColorFG=255,255,255,255
+ColorNone=0,0,0,0
+FontName=pixelmix
+FontSize=6
 
 ; Drive letter for your primary storage disk
-disk1=C
+Disk1=C
 ; Drive letter for your secondary storage disk
-disk2=D
+Disk2=D
 
 ; Network Interface Controller, recommended to use "Best"
 networkInterface=Best
 ; Max download speed in bits/sec (365Mb * 1000000 = 365000000b)
-maxDownload=365000000
+MaxDownload=365000000
 ; Max upload speed in bits/sec (12Mb * 1000000 = 12000000b)
-maxUpload=12000000
+MaxUpload=12000000
+
+SkinWidth=250
 
 ;============================================================================
 ; STYLES
@@ -28,32 +30,32 @@ maxUpload=12000000
 
 [styleText]
 StringEffect=Shadow
-FontEffectColor=#colorBG#
-FontColor=#colorFG#
-FontFace=#fontName#
-FontSize=#fontSize#
+FontEffectColor=#ColorBG#
+FontColor=#ColorFG#
+FontFace=#FontName#
+FontSize=#FontSize#
 
 [styleTextRight]
 StringEffect=Shadow
-FontEffectColor=#colorBG#
-FontColor=#colorFG#
-FontFace=#fontName#
-FontSize=#fontSize#
+FontEffectColor=#ColorBG#
+FontColor=#ColorFG#
+FontFace=#FontName#
+FontSize=#FontSize#
 StringAlign=Right
 
 [styleBar]
-BarColor=#colorFG#
+BarColor=#ColorFG#
 BarOrientation=Horizontal
-SolidColor=#colorBG#
+SolidColor=#ColorBG#
 X=45
 Y=1r
 W=162
 H=7
 
 [styleVisualizer]
-BarColor=#colorFG#
+BarColor=#ColorFG#
 BarOrientation=Vertical
-SolidColor=#colorBG#
+SolidColor=#ColorBG#
 X=1R
 Y=0r
 W=4
