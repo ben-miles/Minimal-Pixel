@@ -23,6 +23,7 @@ MaxDownload=365000000
 MaxUpload=12000000
 
 SkinWidth=250
+SpacerHeight=10
 
 ;============================================================================
 ; STYLES
@@ -60,3 +61,10 @@ X=1R
 Y=0r
 W=4
 H=75
+
+[styleSpacer]
+X=0
+Y=0R
+H=#SpacerHeight#
+W=#SkinWidth#
+SolidColor=#ColorNone#
