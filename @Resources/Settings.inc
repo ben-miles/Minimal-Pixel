@@ -23,7 +23,7 @@ MaxDownload=365000000
 MaxUpload=12000000
 
 SkinWidth=250
-SpacerHeight=10
+SpacerHeight=15
 ButtonHeight=30
 
 ;============================================================================
