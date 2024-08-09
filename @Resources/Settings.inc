@@ -64,10 +64,16 @@ StringEffect=Shadow
 X=2
 Y=-2R
 
+[StyleTextLargeRight]
 FontColor=#ColorFG#
 FontFace=#FontName#
-FontSize=#FontSize#
+FontEffectColor=#ColorBG#
+FontSize=#FontSizeLarge#
+FontWeight=900
 StringAlign=Right
+StringEffect=Shadow
+X=245
+Y=-2r
 
 [styleBar]
 BarColor=#ColorFG#
