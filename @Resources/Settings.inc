@@ -99,7 +99,6 @@ StringEffect=Shadow
 X=245
 Y=-2r
 
-[styleBar]
 BarColor=#ColorFG#
 BarOrientation=Horizontal
 SolidColor=#ColorBG#
@@ -109,6 +108,15 @@ W=162
 H=7
 
 [styleVisualizer]
+[StyleBarLarge]
+BarColor=#ColorFG#
+BarOrientation=Horizontal
+SolidColor=#ColorBG#
+X=5R
+Y=2r
+W=140
+H=14
+
 BarColor=#ColorFG#
 BarOrientation=Vertical
 SolidColor=#ColorBG#
