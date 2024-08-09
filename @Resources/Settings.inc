@@ -44,8 +44,16 @@ FontColor=#ColorFG#
 FontFace=#FontName#
 FontSize=#FontSize#
 
-[styleTextRight]
+[StyleTextSmallRight]
+FontColor=#ColorFG#
+FontFace=#FontName#
+FontEffectColor=#ColorBG#
+FontSize=#FontSizeSmall#
+StringAlign=Right
 StringEffect=Shadow
+X=246
+Y=-1r
+
 [StyleTextLarge]
 FontColor=#ColorFG#
 FontFace=#FontName#
