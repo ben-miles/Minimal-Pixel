@@ -40,9 +40,19 @@ StringEffect=Shadow
 X=5
 Y=5R
 
+[StyleTextButton]
 FontColor=#ColorFG#
 FontFace=#FontName#
-FontSize=#FontSize#
+FontEffectColor=#ColorBG#
+FontSize=#FontSizeSmall#
+MouseOverAction=[!SetOption #CurrentSection# "FontColor" "#ColorBase#"][!SetOption #CurrentSection# "SolidColor" "#ColorFG#"][!UpdateMeter #CurrentSection#][!Redraw]
+MouseLeaveAction=[!SetOption #CurrentSection# "FontColor" "#ColorFG#"][!SetOption #CurrentSection# "SolidColor" "#ColorBG#"][!UpdateMeter #CurrentSection#][!Redraw]
+SolidColor=#ColorBG#
+StringAlign=CenterCenter
+StringEffect=Shadow
+;X=245
+;Y=5R
+
 
 [StyleTextSmallRight]
 FontColor=#ColorFG#
