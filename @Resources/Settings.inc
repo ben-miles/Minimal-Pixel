@@ -8,7 +8,7 @@ ColorBG=100,100,100,50
 ColorFG=255,255,255,255
 ColorNone=0,0,0,0
 FontName=pixelmix
-FontSize=6
+FontSizeSmall=6
 
 ; Drive letter for your primary storage disk
 Disk1=C
@@ -30,9 +30,15 @@ ButtonHeight=30
 ; STYLES
 ;============================================================================
 
-[styleText]
-StringEffect=Shadow
+[StyleTextSmall]
+FontColor=#ColorFG#
+FontFace=#FontName#
 FontEffectColor=#ColorBG#
+FontSize=#FontSizeSmall#
+StringEffect=Shadow
+X=5
+Y=5R
+
 FontColor=#ColorFG#
 FontFace=#FontName#
 FontSize=#FontSize#
