@@ -108,7 +108,6 @@ Y=1r
 W=180
 H=7
 
-[styleVisualizer]
 [StyleBarLarge]
 BarColor=#ColorFG#
 BarOrientation=Horizontal
@@ -127,6 +126,7 @@ Y=5R
 H=30
 W=239
 
+[StyleVisualizer]
 BarColor=#ColorFG#
 BarOrientation=Vertical
 SolidColor=#ColorBG#
