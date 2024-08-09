@@ -63,7 +63,7 @@ Y=0r
 W=4
 H=75
 
-[styleSpacer]
+[StyleSpacer]
 X=0
 Y=0R
 H=#SpacerHeight#
