@@ -118,6 +118,15 @@ Y=2r
 W=140
 H=14
 
+[StyleLine]
+LineCount=1
+LineColor=#ColorFG#
+SolidColor=#ColorBG#
+X=5
+Y=5R
+H=30
+W=239
+
 BarColor=#ColorFG#
 BarOrientation=Vertical
 SolidColor=#ColorBG#
