@@ -53,6 +53,20 @@ StringEffect=Shadow
 ;X=245
 ;Y=5R
 
+[StyleTextButtonConfirm]
+FontColor=#ColorFG#
+FontFace=#FontName#
+FontEffectColor=#ColorBG#
+FontSize=#FontSizeSmall#
+FontWeight=900
+Hidden=1
+MouseOverAction=[!SetOption #CurrentSection# "FontColor" "#ColorBase#"][!SetOption #CurrentSection# "SolidColor" "#ColorFG#"][!UpdateMeter #CurrentSection#][!Redraw]
+MouseLeaveAction=[!Refresh #CURRENTCONFIG#][!SetOption #CurrentSection# "FontColor" "#ColorFG#"][!SetOption #CurrentSection# "SolidColor" "#ColorBG#"][!UpdateMeter #CurrentSection#][!Redraw]
+SolidColor=#ColorBG#
+StringAlign=CenterCenter
+StringEffect=Shadow
+X=245
+Y=5R
 
 [StyleTextSmallRight]
 FontColor=#ColorFG#
