@@ -9,6 +9,7 @@ ColorFG=255,255,255,255
 ColorNone=0,0,0,0
 FontName=pixelmix
 FontSizeSmall=6
+FontSizeLarge=12
 
 ; Drive letter for your primary storage disk
 Disk1=C
@@ -45,7 +46,16 @@ FontSize=#FontSize#
 
 [styleTextRight]
 StringEffect=Shadow
+[StyleTextLarge]
+FontColor=#ColorFG#
+FontFace=#FontName#
 FontEffectColor=#ColorBG#
+FontSize=#FontSizeLarge#
+FontWeight=900
+StringEffect=Shadow
+X=2
+Y=-2R
+
 FontColor=#ColorFG#
 FontFace=#FontName#
 FontSize=#FontSize#
