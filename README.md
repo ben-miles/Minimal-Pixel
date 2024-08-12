@@ -1,6 +1,6 @@
 # Minimal Pixel
 
-<img src=".github/images/ben-miles_minimal-pixel_screenshot_vertical.jpg" width="333" /> <img src=".github/images/ben-miles_minimal-pixel_screenshot_cluster.jpg" width="333" /> <img src=".github/images/ben-miles_minimal-pixel_screenshot_columns.jpg" width="333" />
+<img src=".github/images/ben-miles_minimal-pixel_screenshot_vertical.jpg" width="273" /> <img src=".github/images/ben-miles_minimal-pixel_screenshot_cluster.jpg" width="273" /> <img src=".github/images/ben-miles_minimal-pixel_screenshot_columns.jpg" width="273" />
 
 ## About
 
