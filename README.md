@@ -1,9 +1,10 @@
 # Minimal Pixel
- 
+
+<img src=".github/images/ben-miles_minimal-pixel_screenshot_vertical.jpg" width="333" /> <img src=".github/images/ben-miles_minimal-pixel_screenshot_cluster.jpg" width="333" /> <img src=".github/images/ben-miles_minimal-pixel_screenshot_columns.jpg" width="333" />
 
 ## About
 
-A minimalist / pixel skin for [Rainmeter](https://www.rainmeter.net/). High contrast design keeps stats legible, but unobtrusive. Made following the latest (c. 2024) best practices for optimal performance.
+A complete suite of minimalist / pixel skins for [Rainmeter](https://www.rainmeter.net/). The hgh-contrast, monochromatic design keeps stats legible but unobtrusive, and compliments a wide variety of desktop backgrounds. Made following the latest (c. 2024) best practices for optimal performance.
 
 ## Installation
 
@@ -14,4 +15,5 @@ A minimalist / pixel skin for [Rainmeter](https://www.rainmeter.net/). High cont
 
 ## Credits
 
-- Minimal-Pixel uses the font [PixelMix](https://www.dafont.com/pixelmix.font), made by [Andrew Tyler](https://andrewtyler.gumroad.com/).
+- Minimal-Pixel uses the font [_PixelMix_](https://www.dafont.com/pixelmix.font), made by [Andrew Tyler](https://andrewtyler.gumroad.com/).
+- The photo in the screenshots is [_A black and white photo of a river with a tree in the middle_](https://www.pexels.com/photo/a-black-and-white-photo-of-a-river-with-a-tree-in-the-middle-27585248/), by [Jeremy Bishop](https://www.pexels.com/@jeremy-bishop-1260133/).
